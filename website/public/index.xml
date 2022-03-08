@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Direct Charity</title>
+    <link>https://dkotik.github.io/direct-charity/</link>
+    <description>Recent content on Direct Charity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dkotik.github.io/direct-charity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/receive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/receive/</guid>
+      <description>Receiving using Monobank Requirements </description>
+    </item>
+    
+    <item>
+      <title>Send</title>
+      <link>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/send/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/send/</guid>
+      <description>Sending using PayPal and Xoom Requirements </description>
+    </item>
+    
+  </channel>
+</rss>

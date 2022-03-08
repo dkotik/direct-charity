@@ -1,0 +1,4 @@
+baseURL = 'https://dkotik.github.io/direct-charity/'
+languageCode = 'en-us'
+title = 'Direct Charity'
+# theme = 'ananke'

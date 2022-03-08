@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>
+      {{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{
+      .Site.Title }}{{ end }}
+    </title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1" />
+  </head>
+  <body>
+    {{ block "main" . }}{{ end }}
+  </body>
+</html>
