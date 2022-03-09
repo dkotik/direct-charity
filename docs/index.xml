@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dkotik.github.io/direct-charity/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Prepare</title>
+      <link>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/prepare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/prepare/</guid>
+      <description>Sending using Xoom (a PayPal company), and Monobank This method enables instant transfers that does not require visiting a physical bank. The first transfer will take about 30 minutes to complete. Subsequent transfers to the same person take 1-2 minutes. The transfer fees are low. You can send no more than $3,000 per month per recipient.
+Once in Europe, the funds can be collected using &amp;ldquo;RIA&amp;rdquo; payment system in most banks.</description>
+    </item>
+    
+    <item>
       <title>Receive</title>
       <link>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/receive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/receive/</guid>
-      <description>Receiving using Monobank Подготовка Для пересылки в долларах необходимо открыть валютную карту в приложении Монобанка. Эта карта виртуальная. Не нужно никуда идти в банковское отделение, фотографировать и загружать фото паспорта, открывается бесплатно в приложении. Передайте другу ваши данные. Они все должны быть набраны латинскими буквами:
+      <description>Receive Previous step: Send Funds  Подготовка Для пересылки в долларах необходимо открыть валютную карту в приложении Монобанка. Эта карта виртуальная. Не нужно никуда идти в банковское отделение, фотографировать и загружать фото паспорта, открывается бесплатно в приложении. Передайте другу ваши данные. Они все должны быть набраны латинскими буквами:
  Имя и Фамилия латинскими буквами как на банковской карте номер мобильного телефона адрес проживания имейл, если хотите получать оповещения  Получение   В верхней части приложения выберите опцию карты:    Нажмите на кнопку &amp;ldquo;Відкрити карту або ФОП&amp;rdquo;    Выберите карту в $ долларах, и затем подтвердите ваш выбор и пользовательское соглашение.</description>
     </item>
     
@@ -22,8 +32,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/send/</guid>
-      <description>Sending using Xoom (a PayPal company), and Monobank This method enables instant transfers that does not require visiting a physical bank. The first transfer will take about 30 minutes to complete. Subsequent transfers to the same person take 1-2 minutes. The transfer fees are low.
-Once in Europe, the funds can be collected using &amp;ldquo;RIA&amp;rdquo; payment system in most banks. It is a bit confusing, because Xoom uses partnering organizations, but for some reason does not specify which one.</description>
+      <description>Send Previous step: Collect Information  Add a new recipient Ensure that the correct country is selected. Add a new recipient. Fill in all the information about them collected in the previous step.
+Select currency &amp;ldquo;USD&amp;rdquo; and the amount to send. It is possible to use other currencies, but it may complicate some steps. USD is better for cross-border solvency and storage.
+Send funds  Login into Xoom account. Select &amp;ldquo;Quick Send&amp;rdquo; from Xoom home page.</description>
     </item>
     
   </channel>

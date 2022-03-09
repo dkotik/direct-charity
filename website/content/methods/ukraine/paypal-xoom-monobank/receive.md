@@ -3,7 +3,11 @@ title: Receive
 draft: false
 ---
 
-# Receiving using Monobank
+# Receive
+
+{{< button "./send.md" >}}
+Previous step: Send Funds
+{{< /button >}}
 
 ## Подготовка
 
