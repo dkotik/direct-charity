@@ -18,11 +18,12 @@ Prefer to use a more secure communication channel. **All their information must 
 1. First and last name matching their ID document
 2. Address
 3. Phone number
+4. Note: the recipient must be **18+ years of age** (requirement learned by failure)
 
 Here are information collection instructions in Russian that you can send to your Ukrainian friend:
 
 ```
-Вам необходимо установить приложение "Монобанк." Нам нужны ваши данные набранные латинскими буквами: (1) имя и фамилия, (2) номер мобильного телефона, (3) адрес проживания.
+Вам необходимо установить приложение "Монобанк." Нам нужны ваши данные набранные латинскими буквами: (1) имя и фамилия, (2) номер мобильного телефона, (3) адрес проживания. Вам должно быть 18+ лет для использования этого метода.
 ```
 
 ### Setup Xoom account

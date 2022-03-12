@@ -18,5 +18,17 @@ You can rent an [Airbnb](https://www.airbnb.com/) for your friend remotely. Than
 
 ## Other Methods
 
+If you have good service with any of the following methods, please contact <https://twitter.com/dkotik>, so we can update this guide.
+
 1. [Western Union](https://www.westernunion.com/us/en/home.html): surprisingly very slow right now with high fees.
 2. SWIFT transfer: slow, unreliable, high fees.
+3. Not yet tried:
+   - [Ria Direct](https://www.riamoneytransfer.com/us/en)
+   - [Transferwise](https://wise.com)
+   - [MoneyGram](https://www.moneygram.com/mgo/us/en/)
+   - [Sigue](https://sigue.com/)
+   - Ukrainian [Perekaz24](https://perekaz24.eu/en)
+   - Ukrainian [TransferGo](https://privatbank.ua/sistemy-denegnih-perevodov/transfergo)
+   - Ukrainian [PrivatMoney](https://privatbank.ua/sistemy-denegnih-perevodov/newprivatmoney)
+   - Ukrainian [Welsend](https://welsend.com.ua/)
+   - Ukrainian [Meest](https://ua.meest.com/services/pryvatnym-kliyentam-v-ukrayini/international-money-transfer)
