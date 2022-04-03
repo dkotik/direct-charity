@@ -13,8 +13,9 @@ You can rent an [Airbnb](https://www.airbnb.com/) for your friend remotely. Than
 
 ## Best Methods
 
-1. [Xoom/Monobank]({{< relref "methods/ukraine/paypal-xoom-monobank/prepare.md" >}} "PayPal/Xoom/Monobank") is the fastest and most reliable method that does not require visiting a bank.
-2. More will be added later... (in progress)
+1. **PayPal** has recently dropped transfer fees and allowed Ukrainians to open an account using a mobile application and easily convert funds into local currency. Transfers are almost instant.
+2. [Xoom/Monobank]({{< relref "methods/ukraine/paypal-xoom-monobank/prepare.md" >}} "PayPal/Xoom/Monobank") is the fastest and most reliable method that does not require visiting a bank.
+3. More will be added later... (in progress)
 
 ## Other Methods
 
