@@ -7,6 +7,8 @@
     <loc>https://dkotik.github.io/direct-charity/ru/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://dkotik.github.io/direct-charity/shipping/meest/</loc>
+  </url><url>
     <loc>https://dkotik.github.io/direct-charity/ua/</loc>
     <priority>0</priority>
   </url><url>
@@ -19,6 +21,8 @@
     <loc>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/receive/</loc>
   </url><url>
     <loc>https://dkotik.github.io/direct-charity/methods/ukraine/paypal-xoom-monobank/send/</loc>
+  </url><url>
+    <loc>https://dkotik.github.io/direct-charity/shipping/</loc>
   </url><url>
     <loc>https://dkotik.github.io/direct-charity/tags/</loc>
   </url>
