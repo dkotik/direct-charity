@@ -7,7 +7,7 @@ draft: false
 
 ## Ship items
 
-Warm children's clothing are the most requested items. Use the services of Meest by following the [instructions given here]({{< relref "./shipping/meest.md" >}}).
+Use the services of Meest by following the [instructions given here]({{< relref "./shipping/meest.md" >}}).
 
 ## Transfer funds
 

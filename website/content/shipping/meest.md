@@ -1,5 +1,21 @@
 # How to send a parcel from the USA to Ukraine through Meest
 
+## 1. Collect items
+
+Warm children's clothing are the most requested items. Natural fibers, like wool and cotton, have better thermal qualities than synthetic fibers, like polyester or nylon.
+
+## 2. Pack the box
+
+1. Use box size 16x16x16 inches aiming for under 66 pounds weight.
+2. Tape the outside bottom of the box generously covering the middle seam completely.
+3. Put a layer or two of cardboard on the inside bottom of the box. This greatly reduces the chance that the bottom may spill during delivery.
+4. Make a list of every item being placed with exact amount.
+5. If you are shipping clothes, use vacuum-seal to reduce the volume by 30-60%.
+6. Heavier items like books will pack to ~80% of the volume. Fill the rest of lighter items or crumped packing paper.
+7. Do not seal the box.
+
+## 3. Print the shipping label
+
 1. Register at [Meest Portal](https://us.meest.com/portal)
 2. Create “New Parcel”
 3. Enter parcel details
@@ -16,9 +32,13 @@
     - Value: $140. (Any amount over $150 will be taxed ~30%)
 7. Sign & Pay.
 
-You will receive a CN\# and a shipping number. Print both. For international shipping, **CN\# printout must be put inside the box for customs!**
+You will receive a CN\# and a shipping number. Print both. For international shipping, **CN\# printout must be put inside the box for customs!** The shipping label goes on the outside.
 
-Pack box & put CN\# inside the box. Take shipping label with you.
+## 4. Drop off
+
+Make sure the total weight of the box is less than 66 pounds. You can weigh and seal it when you drop it off at a Fedex location.
+
+Put CN\# inside the box. Take shipping label with you.
 Take all of it to the nearest Fedex location. Give them the shipping label to attach to the outside of the box and ship.
 
 ## Notes
