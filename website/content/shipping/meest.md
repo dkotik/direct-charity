@@ -14,7 +14,7 @@ Warm children's clothing are frequently requested items. Natural fibers, **like 
 
 ## 2. Pack the box
 
-1. Use [box size 16x16x16](https://www.amazon.com/gp/product/B01D37HO28/ "BOX USA Moving Boxes 16"L x 16"W x 16"H Cube 25-Pack | Corrugated Cardboard Box for Packing, Moving and Storage 16x16x16 161616") inches aiming for under 66 pounds weight.
+1. Use [box size 16x16x16](https://www.amazon.com/gp/product/B01D37HO28/ "BOX USA Moving Boxes 16L x 16W x 16H Cube 25-Pack | Corrugated Cardboard Box for Packing, Moving and Storage 16x16x16 161616") inches aiming for under 66 pounds weight.
 2. Tape the outside bottom of the box generously covering the middle seam completely.
 3. Put a layer or two of cardboard on the inside bottom of the box. This greatly reduces the chance that the bottom may spill during delivery.
 4. Make a list of every item being placed with exact amount.
