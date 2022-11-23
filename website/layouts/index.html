@@ -1,5 +1,18 @@
 {{ define "main" }}
 <main aria-role="main">
+  <style type="text/css">
+    main {
+      font-family:  Inter, Avenir, Helvetica, Arial, sans serif;
+    }
+
+    li {
+      margin-bottom: 0.3em;
+    }
+
+    li:last-child {
+      margin-bottom: 0;
+    }
+  </style>
   <!-- <header class="homepage-header">
     <h1>{{.Title}}</h1>
     {{ with .Params.subtitle }}
